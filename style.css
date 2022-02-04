@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: unset;
+}
+
+p{
+    text-align: center;
+    color: blue;
+    font-family: unset
+}
+#uP{
+    font-size: large;
+    font-weight: bolder;
+}
+#lC{
+    font-size: small;
+    font-weight: lighter;
+}
